@@ -24,6 +24,7 @@ This is a live section with the updated state of onboarding
 | ASST Grande Ospedale Metropolitano Niguarda | Milano, Italy |  RX images of lungs (healthy, pneumonia and covid19 patients) | First contact | March, 19th 2020 |
 | ASST degli spedali civili di Brescia |  Brescia, Italy |RX images of lungs (healthy, pneumonia and covid19 patients) | First contact | March, 16th 2020 |
 | Policlinico di Pavia |  Pavia, Italy |RX images of lungs (healthy, pneumonia and covid19 patients) | First contact | March, 16th 2020 |
+| Policlinico di Modena | Modena, Italy |  RX images of lungs (healthy and pneumonia patients), ultrasound images | Project description and data request sent | March, 25th 2020 |
 
 **Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](mailto:support@defeatcovid19.org)**.
 
